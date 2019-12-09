@@ -18,12 +18,12 @@ Con respecto a los archivos de datos usados en las sintaxis, se debe mencionar q
 * accidentalidad_enriquecida2.csv
 * ACCIDENTALIDAD_GEO_V4.csv
 
-*En caso de ser requeridos solicitar al correo lfriosp@gmail.com*
+En caso de ser requeridos solicitar al correo *lfriosp@gmail.com*
 
 
 
 
-Trabajo Realizado por:
+#### Trabajo Realizado por:
 
 * Leidy Milena Castaño
 * Gustavo Gómez
