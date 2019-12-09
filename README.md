@@ -4,10 +4,6 @@ Análisis exploratorio en la accidentalidad de Medellín urbana, períodos compr
 
 Dentro del análisis exploratorio realizado se encuentra el informe técnico, una aplicación en Shiny y un video explicativo de la misma.
 
-Informe técnico:
-Enlace aplicación en Shiny:
-Video explicativo: 
-
 #### Instrucciones para abrir la aplicación de Shiny
 
 Para abrir la aplicación de shiny en su propio entorno de R, es necesario que tenga las siguientes bases de datos en la misma carpeta que el archivo app.R
