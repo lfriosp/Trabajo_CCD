@@ -23,7 +23,7 @@ En caso de ser requeridos solicitar al correo *lfriosp@gmail.com*
 
 
 
-#### Trabajo Realizado por:
+#### Trabajo realizado por:
 
 * Leidy Milena Castaño
 * Gustavo Gómez
